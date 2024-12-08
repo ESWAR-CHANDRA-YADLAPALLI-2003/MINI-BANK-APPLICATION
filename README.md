@@ -2,6 +2,7 @@
 MINI BANK APPLICATION BY USING PYTHON SCRIPTING LANGUAGE WITH PIN ENTRY FEATURE.
 
 A Mini Bank Application written in Python with a PIN entry feature is a simple program that simulates basic banking functionalities such as checking balances, depositing funds, and withdrawing money, all while ensuring user security with PIN verification. Here's a breakdown of how such an application can be structured:
+
 **1. Application Overview**
 
 **User Login:** The user enters a PIN to authenticate themselves.
